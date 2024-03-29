@@ -7,7 +7,7 @@ import java.io.outputprinter;
 import java.io.inputprinter;
 public class SpiralPatternExample2
 {
- //I am Karthik//       
+ //I am Keyan//       
 //function to print the spiral pattern  
 public static void printPattern(int n)  
 {  
